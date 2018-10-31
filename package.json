@@ -1,5 +1,5 @@
 {
-  "name": "btc-rpc-explorer",
+  "name": "fonero-blockchain-explorer",
   "version": "1.0.0",
   "description": "Explorer for Bitcoin and RPC-compatible blockchains",
   "private": false,
@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/janoside/btc-rpc-explorer.git"
+    "url": "git+https://github.com/fonero-project/fonero-blockchain-explorer.git"
   },
   "dependencies": {
     "bitcoin-core": "2.0.0",
